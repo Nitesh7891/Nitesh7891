@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nitesh-kumar-vishwakarma-337394259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nitesh kumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Nitesh444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nitesh Kumar " height="30" width="40" /></a>
-<a href="https://portfolio-website-ebnr.vercel.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/85-857322_decorative-letters-logo-n-alphabet-clip-art-cool-n-logo-transparent.png" alt="nishant raj" height="30" width="40" /></a>
+<img align="center" src="https://www.clipartmax.com/png/small/85-857322_decorative-letters-logo-n-alphabet-clip-art-cool-n-logo-transparent.png" alt="nitesh kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
